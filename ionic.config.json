@@ -1,0 +1,7 @@
+{
+  "name": "GESTION_PEDA_IONIC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
